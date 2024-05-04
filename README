@@ -1,0 +1,17 @@
+# S3 Project
+*by Norenface*
+
+## How to get all executable files
+You just have to type "make" in your terminal
+
+
+
+## How to use the interface of the OCR
+Launch "interface" executable and the interface will be open.
+Then, follow all the button to see your best sudoku with the solution !
+#### Ex: 
+```c
+./interface
+```
+
+You can see that the project is complete without the manual rotation but we are very happy to give you this project !
