@@ -1,10 +1,12 @@
 # S3 Project
 *by Norenface*
 
+## LIBS
+- SDL
+- GTK
+
 ## How to get all executable files
-You just have to type "make" in your terminal
-
-
+You just have to type "make" in your terminal with all libraries
 
 ## How to use the interface of the OCR
 Launch "interface" executable and the interface will be open.
